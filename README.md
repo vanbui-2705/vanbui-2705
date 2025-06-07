@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="180" style="border-radius:50%;box-shadow:0 0 32px #00fff799;">
-</p>
+
 
 <h1 align="center" style="color:#00fff7;text-shadow:0 0 12px #00fff7cc,0 0 32px #1a2980aa;font-family:Orbitron,sans-serif;">
   👋 HoLa Everyone
